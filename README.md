@@ -1,5 +1,5 @@
 # waybackMachine
 Use wayback Machine data to pull a list of paths.
 
-#Usage
+# Usage
 python waybackMachine.py facebook.com
